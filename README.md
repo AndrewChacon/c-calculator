@@ -43,6 +43,17 @@ Do you want to perform another calculation? (y/n): n
 Calculator program terminated.
 ```
 
+## To-Do List
+Here are some potential improvements and features that could be added to enhance the calculator program:
+
+- [ ] **Advanced Operations:** Implement additional operations such as exponentiation, square root, and modulus.
+- [ ] **Support for Parentheses:** Add functionality to handle expressions with parentheses for more complex calculations.
+- [ ] **History Feature:** Display the history of calculations performed during the session.
+- [ ] **Error Handling Enhancements:** Improve error handling for invalid inputs, such as non-numeric values and invalid characters.
+- [ ] **Graphical User Interface (GUI):** Develop a basic GUI version of the calculator for a better user experience.
+- [ ] **Internationalization:** Add support for multiple languages to make the program accessible to a wider audience.
+- [ ] **Configuration File:** Allow users to define custom operations and settings via a configuration file.
+- [ ] **Unit Testing:** Introduce unit tests to ensure all calculator functionalities work correctly and handle edge cases.
 ## Contributing
 If you have suggestions for improvements or find any bugs, please feel free to open an issue or submit a pull request.
 
